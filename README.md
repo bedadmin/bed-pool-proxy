@@ -1,5 +1,5 @@
 # Description
-Stratum-mining is a pooled mining protocol. It is a replacement for *getwork* based pooling servers by allowing clients to generate work. The stratum protocol is described [here](http://mining.bitcoin.cz/stratum-mining) in full detail.
+Stratum-mining is a pooled mining protocol. It is a replacement for *getwork* based pooling servers by allowing clients to generate work. 
 
 This is a implementation of stratum-mining for most coins. It is compatible with *MPOS* as it complies with the standards of *pushpool*. The end goal is to build on these standards to come up with a more stable solution.
 
@@ -26,7 +26,7 @@ https://www.fiverr.com/ahmedbodi/setup-a-cryptocurrency-mining-pool
 * Transaction Messaging Support
 
 # Donations 
-* BTC:  1D9sGeqx5TVzcCSdmiUqxtdqbc8puyVM9N
+* Bedcoin:  1D9sGeqx5TVzcCSdmiUqxtdqbc8puyVM9N
 
 
 # Requirements
