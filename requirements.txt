@@ -1,0 +1,4 @@
+crypto==1.4.1
+simplejson==3.17.2
+Twisted==20.3.0
+MySQL-python==1.2.3

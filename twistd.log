@@ -1,0 +1,35 @@
+2020-12-03T18:52:55+0800 [-] Loading launcher.tac...
+2020-12-03T18:52:55+0800 [-] Registered <class 'stratum.services.ServiceDiscovery'> for service 'discovery', vendor 'Stratum' (default: True)
+2020-12-03T18:52:55+0800 [-] Registered <class 'mining.service.MiningService'> for service 'mining', vendor 'stratum' (default: True)
+2020-12-03T18:52:55+0800 [-] Loaded.
+2020-12-03T18:52:55+0800 [twisted.scripts._twistd_unix.UnixAppLogger#info] twistd 20.3.0 (/opt/.venv/bin/python 2.7.12) starting up.
+2020-12-03T18:52:55+0800 [twisted.scripts._twistd_unix.UnixAppLogger#info] reactor class: twisted.internet.epollreactor.EPollReactor.
+2020-12-03T18:52:55+0800 [stdout#info] ecdsa package not installed. Signing of messages not available.
+2020-12-03T18:52:55+0800 [stdout#info] Loading of signing key 'None' failed, protocol messages cannot be signed.
+2020-12-03T18:52:55+0800 [HTTPPageGetter,client] SocketTransportFactory starting on 3333
+2020-12-03T19:04:28+0800 [-] Received SIGTERM, shutting down.
+2020-12-03T19:04:28+0800 [-] (TCP Port 3333 Closed)
+2020-12-03T19:04:28+0800 [-] Main loop terminated.
+2020-12-03T19:04:28+0800 [twisted.scripts._twistd_unix.UnixAppLogger#info] Server Shut Down.
+2020-12-03T19:05:43+0800 [-] Loading launcher.tac...
+2020-12-03T19:05:43+0800 [-] Registered <class 'stratum.services.ServiceDiscovery'> for service 'discovery', vendor 'Stratum' (default: True)
+2020-12-03T19:05:43+0800 [-] Registered <class 'mining.service.MiningService'> for service 'mining', vendor 'stratum' (default: True)
+2020-12-03T19:05:43+0800 [-] Loaded.
+2020-12-03T19:05:43+0800 [twisted.scripts._twistd_unix.UnixAppLogger#info] twistd 20.3.0 (/opt/.venv/bin/python 2.7.12) starting up.
+2020-12-03T19:05:43+0800 [twisted.scripts._twistd_unix.UnixAppLogger#info] reactor class: twisted.internet.epollreactor.EPollReactor.
+2020-12-03T19:05:43+0800 [stdout#info] ecdsa package not installed. Signing of messages not available.
+2020-12-03T19:05:43+0800 [stdout#info] Loading of signing key 'None' failed, protocol messages cannot be signed.
+2020-12-03T19:05:43+0800 [HTTPPageGetter,client] SocketTransportFactory starting on 3333
+2021-03-10T11:30:34+0800 [Uninitialized] Received SIGTERM, shutting down.
+2021-03-10T11:31:05+0800 [-] (TCP Port 3333 Closed)
+2021-03-10T11:31:25+0800 [-] Main loop terminated.
+2021-03-10T11:31:25+0800 [twisted.scripts._twistd_unix.UnixAppLogger#info] Server Shut Down.
+2021-03-10T11:40:57+0800 [-] Loading launcher.tac...
+2021-03-10T11:40:58+0800 [-] Registered <class 'stratum.services.ServiceDiscovery'> for service 'discovery', vendor 'Stratum' (default: True)
+2021-03-10T11:40:58+0800 [-] Registered <class 'mining.service.MiningService'> for service 'mining', vendor 'stratum' (default: True)
+2021-03-10T11:40:58+0800 [-] Loaded.
+2021-03-10T11:40:58+0800 [twisted.scripts._twistd_unix.UnixAppLogger#info] twistd 20.3.0 (/opt/.venv/bin/python 2.7.12) starting up.
+2021-03-10T11:40:58+0800 [twisted.scripts._twistd_unix.UnixAppLogger#info] reactor class: twisted.internet.epollreactor.EPollReactor.
+2021-03-10T11:40:58+0800 [stdout#info] ecdsa package not installed. Signing of messages not available.
+2021-03-10T11:40:58+0800 [stdout#info] Loading of signing key 'None' failed, protocol messages cannot be signed.
+2021-03-10T11:40:58+0800 [HTTPPageGetter,client] SocketTransportFactory starting on 3333
